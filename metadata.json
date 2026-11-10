@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Bazaar 3D - Supermarket Simulator",
+  "description": "An interactive 3D Indian Supermarket simulator game. Explore aisles, pick iconic Indian groceries like Maggi, Amul Milk, Parle-G, and checkout at the billing counter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
